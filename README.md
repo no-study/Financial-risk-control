@@ -1,5 +1,5 @@
 # Financial-risk-control
-the code about Financial risk control from bilibili
+the code about Financial risk control 
 
 ## 目录
 - [1:常用反欺诈特征](常用反欺诈特征.md)
