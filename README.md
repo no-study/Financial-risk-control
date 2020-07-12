@@ -11,4 +11,4 @@ the code about Financial risk control
 - [7:工作中使用的方法](工作中使用的方法.md)
 - [8:逻辑回归评分卡](逻辑回归评分卡.md)
 - [9:LightGBM评分卡](LightGBM评分卡.md)
-- [10Xgboost:](Xgboost.md)
+- [10:Xgboost:](Xgboost.md)
