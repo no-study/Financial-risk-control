@@ -10,3 +10,4 @@ the code about Financial risk control
 - [6:特征工程之特征选择](特征工程之特征选择.md)
 - [7:工作中使用的方法](工作中使用的方法.md)
 - [8:逻辑回归评分卡](逻辑回归评分卡.md)
+- [9:LightGBM评分卡](LightGBM评分卡.md)
